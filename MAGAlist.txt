@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Promote the New Media, Bankrupt the MSM
+! Last modified: 31 Mar 2017
+! Homepage: www.pepe.institute
+!--------------------------General whitelisting rules-----------------------------!
+
 @@||foxnews.com^$document
 @@||drudgereport.com^$document
 @@||theblaze.com^$document
