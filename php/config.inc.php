@@ -14,7 +14,7 @@ $config['use_smtp']				= true;						// true|false
 	Please, create an intenal email addres like: noreply@yourdomain.com
 	You can find SMTP settings in your cPanel (host/port)
 **/
-$config['smtp_host'] 			= '';   					// eg.: smtp.gmail.com
+$config['smtp_host'] 			= 'smtp.gmail.com';   					// eg.: smtp.gmail.com
 $config['smtp_port'] 			= 587;						// eg.: 587
 $config['smtp_user'] 			= ''; 						// you@gmail.com
 $config['smtp_pass'] 			= '';						// password
@@ -22,11 +22,11 @@ $config['smtp_ssl']				= false;					// should remain false
 
 
 // Who receive all emails?
-$config['send_to']				= 'youremail@gmail.com';	// destination of all emails sent throught contact form
+$config['send_to']				= 'griffith.michaelc@gmail.com';	// destination of all emails sent throught contact form
 
 
 // Email Subject
-$config['subject']				= 'Smarty Contact Form';	// subject of emails you receive
+$config['subject']				= 'PepeInstitute Contact';	// subject of emails you receive
 
 
 
@@ -47,8 +47,8 @@ define('CACHE_LIFETIME', 	3600); 			// in seconds
 
 
 /** ************************************************** TWITTER WIDGET ************************************************** **/
-/** 
-	First, you need a consumer key and secret keys. 
+/**
+	First, you need a consumer key and secret keys.
 	Get one from dev.twitter.com/apps
 
 	Please note, the keys already used here - are for demo purpose only!
