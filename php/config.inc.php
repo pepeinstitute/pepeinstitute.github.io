@@ -15,14 +15,14 @@ $config['use_smtp']				= true;						// true|false
 	You can find SMTP settings in your cPanel (host/port)
 **/
 $config['smtp_host'] 			= 'smtp.gmail.com';   					// eg.: smtp.gmail.com
-$config['smtp_port'] 			= 587;						// eg.: 587
-$config['smtp_user'] 			= ''; 						// you@gmail.com
-$config['smtp_pass'] 			= '';						// password
-$config['smtp_ssl']				= false;					// should remain false
+$config['smtp_port'] 			= 465;						// eg.: 587
+$config['smtp_user'] 			= 'michael.griffith@madverick.com'; 						// you@gmail.com
+$config['smtp_pass'] 			= 'MIC780ael';						// password
+$config['smtp_ssl']				= true;					// should remain false
 
 
 // Who receive all emails?
-$config['send_to']				= 'griffith.michaelc@gmail.com';	// destination of all emails sent throught contact form
+$config['send_to']				= 'michael.griffith@madverick.com';	// destination of all emails sent throught contact form
 
 
 // Email Subject
