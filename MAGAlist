@@ -1,10 +1,3 @@
-[Adblock Plus 2.0]
-! Version: 1
-! Title: Promote the New Media, Bankrupt the MSM
-! Last modified: 31 Mar 2017 20:11 UTC
-! Homepage: pepe.institute
-!
-!--------------------------General whitelisting rules-----------------------------!
 @@||foxnews.com^$document
 @@||drudgereport.com^$document
 @@||theblaze.com^$document
@@ -109,64 +102,3 @@
 
 
 
-!--------------------------General blacklisting rules-----------------------------!
-||cnn.com^
-||huffingtonpost.com^
-||time.com/time^
-||npr.org^
-||slate.com^
-||newsweek.com^
-||usnews.com^
-||politico.com^
-||salon.com^
-||Indymedia.org^
-||democraticunderground.com^
-||theatlantic.com^
-||villagevoice.com^
-||dailykos.com^
-||eschatonblog.com^
-||newyorker.com^
-||thedailybeast.com^
-||alternet.org^
-||CommonDreams.org^
-||crooksandliars.com^
-||buzzflash.com^
-||talkingpointsmemo.com^
-||moveon.org^
-||motherjones.com^
-||amnesty.org^
-||counterpunch.org^
-||thenation.com^
-||antiwar.com^
-||thinkprogress.org^
-||rawstory.com^
-||tnr.com^
-||plannedparenthood.com^
-||informationclearinghouse.info^
-||whatreallyhappened.com^
-||opednews.com^
-||bad.eserver.org^
-||politicalwire.com^
-||wsws.org/index.shtml^
-||aclu.org^
-||cidh.oas.org/DefaultE.htm^
-||mediamatters.org^
-||feministing.com^
-||truthout.org^
-||drudge.com^
-||prospect.org^
-||harpers.org^
-||firedoglake.com^
-||truthdig.com^
-||wonkette.com^
-||americablog.com^
-||fivethirtyeight.com^
-||washingtonmonthly.com^
-||michaelmoore.com^
-||bartcop.com^
-||airamerica.com^
-||oliverwillis.com^
-||mydd.com^
-||americanprogress.org^
-||brookings.edu^
-||ZMag.org^
